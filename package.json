@@ -1,0 +1,11 @@
+{
+  "name": "triton",
+  "version": "0.0.1",
+  "dependencies": {
+    "electron": "^1.4.10",
+    "three": "^0.82.1"
+  },
+  "scripts": {
+    "start": "electron src"
+  }
+}
